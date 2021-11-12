@@ -1,6 +1,3 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-ReactDOM.render(
-  <p>Ez az első React alkalmazásom</p>,
-  document.getElementById('app')
-);
+ReactDOM.render(<h1>Bookworms</h1>, document.getElementById('app'));
